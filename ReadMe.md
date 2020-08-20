@@ -12,13 +12,13 @@
 ##### 📫 Connect with me here:<br />
  <br />
  <p>
-  <a href="https://www.instagram.com/princu09" target="_blank">
+  <a href="https://www.instagram.com/princu09">
     <img src="https://img.shields.io/badge/princu.09-386938188?style=flat&logo=instagram&color=black">
   </a> &nbsp; 
-  <a href="https://twitter.com/princu09" target="_blank">
+  <a href="https://twitter.com/princu09">
     <img src="https://img.shields.io/badge/@princu09-30302f?style=flat&logo=twitter&color=black">
   </a>&nbsp; 
-  <a href="https://github.com/princu09" target="_blank">
+  <a href="https://github.com/princu09">
     <img src="https://img.shields.io/badge/@princu09-30302f?style=flat&logo=github&color=black">
   </a>
 </p>
@@ -26,6 +26,6 @@
 
 #### Cheers!
 
-<p align="center"><img src=icons/python.png alt=python width="40" height="40"/>&nbsp;&nbsp;<img src=icons/flutter.png alt=python width="40" height="40"/>&nbsp;&nbsp;<img src=icons/php.png alt=python width="40" height="40"/>&nbsp;&nbsp;<img src=icons/wordpress.png alt=python width="40" height="40"/>&nbsp;&nbsp;<img src=icons/photoshop.png alt=python width="40" height="40"/>&nbsp;&nbsp;<img src=icons/bootstrap.png alt=python width="40" height="40"/>&nbsp;&nbsp;<img src=icons/html.png alt=python width="40" height="40"/>&nbsp;&nbsp;<img src=icons/css.png alt=python width="40" height="40"/>&nbsp;&nbsp;<img src=icons/tailwinds.png alt=python width="40" height="40"/>   
+<p align="center"><img src=icons/python.png alt=python width="60" height="60"/>&nbsp;&nbsp;<img src=icons/flutter.png alt=python width="60" height="60"/>&nbsp;&nbsp;<img src=icons/php.png alt=python width="60" height="60"/>&nbsp;&nbsp;<img src=icons/wordpress.png alt=python width="60" height="60"/>&nbsp;&nbsp;<img src=icons/photoshop.png alt=python width="60" height="60"/>&nbsp;&nbsp;<img src=icons/bootstrap.png alt=python width="60" height="60"/>&nbsp;&nbsp;<img src=icons/html.png alt=python width="60" height="60"/>&nbsp;&nbsp;<img src=icons/css.png alt=python width="60" height="60"/>&nbsp;&nbsp;<img src=icons/tailwinds.png alt=python width="60" height="60"/>   
 
 [![Prince Patel's github stats](https://github-readme-stats.vercel.app/api?username=princu09)](https://github.com/akanksha-raghav/github-readme-stats)
