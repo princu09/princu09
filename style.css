@@ -1,0 +1,117 @@
+.mainBlock {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.mainContent {
+    box-shadow: 0.3rem 0.3rem 2rem rgba(0, 0, 0, 0.2);
+}
+
+.line {
+    border-bottom: 3px solid orangered;
+    opacity: 0.5;
+    margin: 1.5rem 20rem 1.5rem 0rem;
+    border-radius: 50rem;
+}
+
+.subtitle {
+    font-weight: 700;
+}
+
+.degree {
+    padding: 1rem;
+    font-weight: 600;
+    opacity: 0.7;
+}
+
+#ownerImg {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.3rem 0.3rem 2rem rgba(0, 0, 0, 0.2);
+}
+
+
+/* Social Icons */
+
+.social-icons i {
+    padding-right: 1rem;
+    font-size: 1.7rem;
+    margin: 1rem 0;
+}
+
+.fa-github {
+    color: #333;
+}
+
+.fa-twitter {
+    color: rgb(29, 161, 242);
+}
+
+.fa-facebook {
+    color: rgb(66, 103, 178);
+}
+
+.fa-instagram {
+    color: rgb(225, 48, 108);
+}
+
+.fa-youtube {
+    color: rgb(255, 0, 0);
+}
+
+.fa-envelope {
+    color: rgb(34, 63, 125);
+}
+
+.social-icons i:hover {
+    color: orangered;
+}
+
+
+/* Social Icons End */
+
+#sbmtBtn {
+    color: #fff;
+    background: darkorange;
+    outline: none;
+    border: none;
+    border-radius: 10rem;
+    padding: 0.5rem 0.8rem;
+    font-weight: 600;
+}
+
+#sbmtBtn i {
+    color: white;
+}
+
+i {
+    color: darkorange;
+    margin-right: 0.5rem;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+p {
+    font-weight: 500;
+}
+
+
+/* Media Query Code Here */
+
+@media(max-width:768px) {
+    .mainBlock {
+        text-align: center;
+        padding: 5rem 0;
+    }
+    .line {
+        border-bottom: 3px solid orangered;
+        opacity: 0.5;
+        margin: 1.5rem 5rem 1.5rem 5rem;
+        border-radius: 50rem
+    }
+}
