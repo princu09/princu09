@@ -1,4 +1,4 @@
-### I Love <span style="color:red">❤</span> the Code. Because Code Never Lies , Comments Something do.
+### I Love <span style="color:red">❤</span> the Code. Because Code Never Lies , Comments Sometimes do.
 
 <img align ="right" src = "https://princu09.github.io/nfwebbuilder/img/logo.png" width="150" height="150">
 
