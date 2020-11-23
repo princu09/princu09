@@ -5,7 +5,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=princu09&color=orange alt=Princu09/></p>
 
 
-##### Hi ! 👋 I am Prince Patel.<br>Python , Django , PHP , Flutter , NodeJS , ExpressJS , Web Developer , Web Designer , WordPress Developer who loves to explore new Code and Idea it to solve real-life problems.<br /><br>
+##### Hi ! 👋 I am Prince Patel.<br>Python , Django , PHP , NodeJS , ExpressJS , Web Developer , Web Designer , WordPress Developer who loves to explore new Code and Idea it to solve real-life problems.<br /><br>
 
 ##### 👨‍💻Let's Learn and grow<br />
 ##### ⚡ Fun fact: I have a secret collection of Ethical Hacking Tools and Code. <br />
