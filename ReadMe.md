@@ -1,6 +1,6 @@
 ### I Love <span style="color:red">❤</span> the Code. Because Code Never Lies , Comments Sometimes do.
 
-<img align ="right" src = "https://princu09.github.io/nfwebbuilder/img/logo.png" width="150" height="150">
+<img align ="right" src = "https://github.com/princu09/princu09/blob/master/img/favicon.png?raw=true" width="150" height="150">
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=princu09&color=orange alt=Princu09/></p>
 
