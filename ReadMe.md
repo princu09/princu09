@@ -5,7 +5,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=princu09&color=orange alt=Princu09/></p>
 
 
-##### Hello ! I am Prince . I'm Professional in Web Dev & Designing , HTML5, CSS3,Bootstrap,PSD-To-HTML,Payment Gateway,Python Django,PHP, MySQL,Javascript, JQuery, AJAX, JSON , ReactJS. who loves to explore new Code and Idea it to solve real-life problems.<br /><br>
+##### Hello ! I am Prince . Experienced Full Stack Developer proficient in MERN stack, React Native, Python, WordPress, and Next.js. who loves to explore new Code and Idea it to solve real-life problems.<br /><br>
 
 ##### 👨‍💻Let's Learn and grow<br />
 ##### ⚡ Fun fact: I have a secret collection of Ethical Hacking Tools and Code. <br />
